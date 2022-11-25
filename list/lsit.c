@@ -1,5 +1,5 @@
-#include<stdio.h>
-void main(void)
-{
-	printf("hellow world  world2 123!");
-}
+//#include<stdio.h>
+//void main(void)
+//{
+//	printf("hellow world  world2 123!");
+//}
